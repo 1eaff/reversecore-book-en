@@ -1,8 +1,12 @@
-# 리버싱 핵심원리
-이승원, 인사이트
+# Reversing Core Principles
+Seungwon Lee, Insight
 
-- 소스 코드 
-- 실습 예제
+> Consistent with the original except for translate file name, fold name etc. to
+> English.
+> Not 100% accuracy since using Google Translate.
+
+- source code
+- practice example
 
 web site : www.reversecore.com/104  <br>
 email    : reversecore@gmail.com
